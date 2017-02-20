@@ -60,6 +60,8 @@
 
   /* 4 columns */
   .col-4 {
+    width: 33.3333%;
+    width: calc(100%/3);
   }
 
   /* 6 columns */
